@@ -1,4 +1,4 @@
-# Project: Shell, I/O Redirections and Filters
+# Project 2: Shell, I/O Redirections and Filters
 
 ## Description
 This project practices Unix **redirections**, **pipes**, and **text filters**. You will learn to chain commands with `|`, redirect STDIN/STDOUT/STDERR, manipulate files and streams, and use common text-processing tools (`head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grep`, `tr`, `rev`, `cut`). Scripts are intentionally minimal and follow strict formatting rules.
